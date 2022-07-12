@@ -1,4 +1,4 @@
-package com.example.algorithm;
+package com.example.algorithm.Greedy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,6 @@ public class Greedy2 {
 
         int N = Integer.parseInt(br.readLine());
         System.out.println("N = " + N);
-
 
         int[][] time = new int[N][2];
 
